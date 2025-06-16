@@ -1,1 +1,1 @@
-worker: python3 bot_swap.py
+start: python3 bot_swap.py
