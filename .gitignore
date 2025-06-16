@@ -1,9 +1,1 @@
-# Model dan file besar
-*.onnx
-
-# File sistem / cache
-__pycache__/
-*.pyc
-
-# Secret Bot
-.env
+inswapper_128.onnx
