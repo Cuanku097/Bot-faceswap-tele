@@ -1,1 +1,1 @@
-insightface==0.7.3
+opencv-python\nnumpy\npillow\npython-telegram-bot==13.15\ninsightface==0.7.3
